@@ -1,6 +1,6 @@
 
 
-Class MYClass {
+class MYClass {
 
 public static void main(String arg[]) {
 System.out.println("hello world");
